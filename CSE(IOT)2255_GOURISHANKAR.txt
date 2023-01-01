@@ -1,0 +1,14 @@
+Name of the student : GOURI SHANKAR 
+Class Roll of the student : 55 
+Stream of the student : CSE(IOT) 
+Your Student ID is : CSE(IOT)2255
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 89 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 79 
+Marks obtained in English is : 95 
+
+You have got 453 in total with 453%
+Outstanding Performance... You have passed the exam with grade A.

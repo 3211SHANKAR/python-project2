@@ -1,0 +1,14 @@
+Name of the student : KESHAV KUMAR 
+Class Roll of the student : 38 
+Stream of the student : IT 
+Your Student ID is : IT2038
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 78 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 99 
+
+You have got 420 in total with 84%
+Excellent Performance... You have passed the exam with grade B.

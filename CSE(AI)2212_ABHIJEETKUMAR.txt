@@ -1,0 +1,14 @@
+Name of the student : ABHIJEET KUMAR 
+Class Roll of the student : 12 
+Stream of the student : CSE(AI) 
+Your Student ID is : CSE(AI)2212
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 97 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 85 
+
+You have got 466 in total with 466%
+Outstanding Performance... You have passed the exam with grade A.

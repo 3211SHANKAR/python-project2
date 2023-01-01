@@ -1,0 +1,14 @@
+Name of the student : ADITYA SHUKLA 
+Class Roll of the student : 46 
+Stream of the student : CSE 
+Your Student ID is : CSE2146
+
+Marks obtained in Math is : null 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 75 
+Marks obtained in Biology is : 39 
+Marks obtained in English is : 45 
+
+You have got 348 in total with 58%
+Your performance is average... Work hard... You have passed the exam with grade D.
